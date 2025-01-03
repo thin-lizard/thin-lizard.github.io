@@ -3,8 +3,8 @@ github_users:
 
 repo_description_lines_max: 2
 
-# github_repos:
-  #- alshedivat/al-folio
-  #- jekyll/jekyll
-  #- twbs/bootstrap
+github_repos: >
+  - alshedivat/al-folio
+  - jekyll/jekyll
+  - twbs/bootstrap
 
