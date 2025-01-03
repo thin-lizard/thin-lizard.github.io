@@ -8,8 +8,8 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 4444
+      institution: UW SEA
+      year: (exp. 20xx)
       description:
         - Description 1.
         - Description 2.
@@ -18,7 +18,7 @@
             - Sub-description 1.
             - Sub-description 2.
     - title: MLIS
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      institution: UW SEA
       year: 2022
       description:
         - Description 1.
@@ -87,7 +87,3 @@
         - Description 1.
         - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
