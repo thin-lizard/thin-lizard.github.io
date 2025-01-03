@@ -1,14 +1,14 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"weber":
+  - firstname: ["Nic", "N.", "N. M.", "Nicholas"]
+    url: https://ischool.uw.edu/people/faculty/profile/nmweber
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"brown":
+  - firstname: ["Eva", "E.", "E. M.", "Eva Maxfield]
+    url: https://evamaxfield.github.io/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"slaughter":
+  - firstname: ["Isaac", "I."]
+    url: https://www.slaughter.page/
 
 "bach":
   - firstname: ["Johann Sebastian", "J. S."]
