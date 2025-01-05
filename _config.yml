@@ -325,7 +325,7 @@ scholar:
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
-  bibtex_filters: [latex, smallcaps, superscript]
+  bibtex_filters: [latex, smallcaps, superscript, abstract, preprint, report]
 
   replace_strings: true
   join_strings: true
@@ -333,7 +333,6 @@ scholar:
   details_dir: bibliography
   details_link: Details
 
-  query: "@*"
   group_by: year
   group_order: descending
 
@@ -346,34 +345,8 @@ enable_publication_badges:
   inspirehep: false # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
-filtered_bibtex_keywords:
-  [
-    abbr,
-    abstract,
-    additional_info,
-    altmetric,
-    annotation,
-    arxiv,
-    article,
-    award,
-    award_name,
-    bibtex_show,
-    blog,
-    code,
-    google_scholar_id,
-    html,
-    inspirehep_id,
-    report,
-    pdf,
-    poster, 
-    preprint,
-    preview,
-    selected,
-    slides,
-    supp,
-    video,
-    website,
-  ]
+#filtered_bibtex_keywords:
+
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: 3 # leave blank to always show all authors
