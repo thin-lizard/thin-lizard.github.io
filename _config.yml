@@ -333,6 +333,7 @@ scholar:
   details_dir: bibliography
   details_link: Details
 
+  query: "@*"
   group_by: year
   sort_by: year, month
   group_order: descending
