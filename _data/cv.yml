@@ -1,89 +1,78 @@
-- title: General Information
+- title: Lindsey S. Schwartz
   type: map
   contents:
-    - name: Full Name
-      value: Lindsey S. Schwartz
+    - name: email
+      value: lsschwar@uw.edu
+      
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: UW SEA
-      year: 20
+    - title: PhD, Information Science
+      institution: University of Washington - Seattle, WA
+      year: 2023-
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: MLIS
-      institution: UW SEA
+      institution: University of Washington - Seattle, WA
       year: 2022
-      description:
-        - Description 1.
-        - Description 2.
+    - title: B.A., Sociology & Environmental Studies
+      institution: Oberlin College - Oberlin, OH
+      year: 2014
 
-- title: Experience
+
+- title: Research Experience
   type: time_table
   contents:
-    - title: RCH
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Google Public Policy Fellow
+      institution: Center for Democracy and Technology - Washington, D.C.
+      year: June - September 2024
+      description: 
+        - Workers' Rights and Technology Project
+    - title: Pre-doctoral Research Fellow
+      institution: University of Washington - Seattle, WA
+      year: 2022-2023
       description:
         - Description 1.
         - Description 2.
-        - title: Description 3.
+    - title: Graduate Research Associate
+      institution: University of Washington - Seattle, WA
+      year: 2020-2022
+      description: 
+        - title: I contributed to a number of projects, including:
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+            - [Open Data in Public Libraries](https://tascha.uw.edu/projects/leveraging-use-of-open-data-by-public-library-staff-for-community-benefit/) - Technology and Social Change Group (TASCHA)
+            - [LIS Forward](https://lisforward.ischool.uw.edu/) - Technology and Social Change Group (TASCHA)
+            - [Open Data Literacy Project](https://odl.ischool.uw.edu/)
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Evening & Weekend Supervisor
+      institution: University of Pennsylvania Libraries - Philadelphia, PA
+      year: 2019-2020
 
     - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+      institution: Historical Society of Pennsylvania - Philadelphia, PA
+      year: 2014-2020
+      description: 
+        - Processing Archivist
+        - Circulation 
+        - Stacks 
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - year: 2023
+      title: Top Scholar Fellowship - University of Washington
+    - year: 2022
+      title:  - Research Award, Capstone Project - University of Washington Information School 
+      
 
-- title: Academic Interests
-  type: nested_list
+- title: Service
+  type: map
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Department Steward, Information School - UAW 4121 | 2023 - present
+    - title: Peer Advisor, MLIS Program - University of Washington Information School | 2021-2022
+
 
