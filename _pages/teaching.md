@@ -2,11 +2,21 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**(All at the University of Washington Information School)**
 
-Organize your courses by years, topics, or universities, however you like!
+Guest Instructor | LIS 572: Introduction to Data Science  
+Led a class of 35 graduate students in technical exercises in data visualization and discussions on practical applications of critical data science. 
+
+Guest Instructor | INSC 570: Research Design 
+Consulted 16 first-year PhD students on independent research projects.
+
+Teaching Assistant | INFO 351: Information, Ethics, and Policy
+Graded assignments and taught writing clinics for a class of 35 undergraduate students.
+
+Grading Assistant | LIS 545: Introduction to Data Curation 
+Graded quizzes and assignments, and monitored course-related emails and messages for a class of 21 graduate students. 
