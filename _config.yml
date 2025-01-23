@@ -353,6 +353,7 @@ filtered_bibtex_keywords:
     altmetric,
     annotation,
     arxiv,
+    socarxiv,
     award,
     acm,
     link,
