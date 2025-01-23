@@ -3,7 +3,7 @@ layout: page
 title: Models of Collective Power
 description: another without an image
 img:
-importance: 3
+importance: 4
 category: fun
 ---
 
