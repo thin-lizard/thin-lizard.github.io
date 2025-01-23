@@ -62,9 +62,11 @@
       title: Research Award, Capstone Project - University of Washington Information School 
       
 - title: Service
-  type: nested_list
+  type: map
   contents:
-    - title: Department Steward, Information School - UAW 4121 | 2023 - present
-    - title: Peer Advisor, MLIS Program - University of Washington Information School | 2021-2022
+    - name: Department Steward, Information School - UAW 4121 
+      value: 2023 - present
+    - name: Peer Advisor, MLIS Program - University of Washington Information School
+      value: 2021-2022
 
 
