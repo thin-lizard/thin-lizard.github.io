@@ -36,11 +36,10 @@
     - title: Graduate Research Associate
       institution: University of Washington - Seattle, WA
       year: 2020-2022
-      description: I contributed to a number of projects, including:
-        description: 
-            - [Open Data in Public Libraries](https://tascha.uw.edu/projects/leveraging-use-of-open-data-by-public-library-staff-for-community-benefit/) - Technology and Social Change Group (TASCHA)
-            - [LIS Forward](https://lisforward.ischool.uw.edu/) - Technology and Social Change Group (TASCHA)
-            - [Open Data Literacy Project](https://odl.ischool.uw.edu/)
+      description: 
+        - [Open Data in Public Libraries](https://tascha.uw.edu/projects/leveraging-use-of-open-data-by-public-library-staff-for-community-benefit/) - Technology and Social Change Group (TASCHA)
+        - [LIS Forward](https://lisforward.ischool.uw.edu/) - Technology and Social Change Group (TASCHA)
+        - [Open Data Literacy Project](https://odl.ischool.uw.edu/)
 
 - title: Professional Experience
   type: time_table
