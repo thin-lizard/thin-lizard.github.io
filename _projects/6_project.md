@@ -3,7 +3,7 @@ layout: page
 title: project 6
 description: a project with no name
 img: /assets/img/Screenshot-Gritty.png
-importance: 4
+importance: 9
 category: 
 ---
 
