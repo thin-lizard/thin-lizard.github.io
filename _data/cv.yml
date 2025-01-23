@@ -9,7 +9,7 @@
   contents:
     - title: PhD, Information Science
       institution: University of Washington - Seattle, WA
-      year: 2023-
+      year: 2023 - exp. 2027
     - title: MLIS
       institution: University of Washington - Seattle, WA
       year: 2022
@@ -20,17 +20,12 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Google Public Policy Fellow
+    - title: Google Public Policy Fellow, Workers' Rights and Technology Project
       institution: Center for Democracy and Technology - Washington, D.C.
-      year: June - September 2024
-      description: 
-        - Workers' Rights and Technology Project
-    - title: Pre-doctoral Research Fellow
+      year: 2024
+    - title: Pre-doctoral Research Fellow, Puget Sound Clinic for Public Interest Technology
       institution: University of Washington - Seattle, WA
       year: 2022-2023
-      description:
-        - Description 1.
-        - Description 2.
     - title: Graduate Research Associate
       institution: University of Washington - Seattle, WA
       year: 2020-2022
@@ -45,13 +40,9 @@
     - title: Evening & Weekend Supervisor
       institution: University of Pennsylvania Libraries - Philadelphia, PA
       year: 2019-2020
-    - title: 
+    - title: Processing Archivist; Circulation and Stacks Assistant 
       institution: Historical Society of Pennsylvania - Philadelphia, PA
       year: 2014-2020
-      description: 
-        - Processing Archivist
-        - Circulation 
-        - Stacks 
 
 - title: Honors and Awards
   type: time_table
@@ -59,7 +50,7 @@
     - year: 2023
       title: Top Scholar Fellowship - University of Washington
     - year: 2022
-      title: Research Award, Capstone Project - University of Washington Information School 
+      title: Research Award, Capstone Project - University of Washington
       
 - title: Service
   type: map
