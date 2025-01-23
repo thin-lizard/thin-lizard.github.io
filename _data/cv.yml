@@ -3,7 +3,6 @@
   contents:
     - name: email
       value: lsschwar@uw.edu
-      
 
 - title: Education
   type: time_table
@@ -17,7 +16,6 @@
     - title: B.A., Sociology & Environmental Studies
       institution: Oberlin College - Oberlin, OH
       year: 2014
-
 
 - title: Research Experience
   type: time_table
@@ -47,7 +45,6 @@
     - title: Evening & Weekend Supervisor
       institution: University of Pennsylvania Libraries - Philadelphia, PA
       year: 2019-2020
-
     - title: 
       institution: Historical Society of Pennsylvania - Philadelphia, PA
       year: 2014-2020
@@ -55,7 +52,6 @@
         - Processing Archivist
         - Circulation 
         - Stacks 
-
 
 - title: Honors and Awards
   type: time_table
@@ -65,9 +61,8 @@
     - year: 2022
       title:  - Research Award, Capstone Project - University of Washington Information School 
       
-
 - title: Service
-  type: map
+  type: nested_list
   contents:
     - title: Department Steward, Information School - UAW 4121 | 2023 - present
     - title: Peer Advisor, MLIS Program - University of Washington Information School | 2021-2022
