@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deactivation with and without Representation 
+title: Deactivation With Representation 
 description: a project with a background image and giscus comments
 img: assets/img/3.jpg
 importance: 2
