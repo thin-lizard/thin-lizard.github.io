@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 6
+title: 
 description: a project with no name
 img: /assets/img/Screenshot-Gritty.png
-importance: 9
+importance: 8
 category: 
 ---
 
