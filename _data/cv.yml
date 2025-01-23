@@ -11,7 +11,6 @@
     - title: PhD, Information Science
       institution: University of Washington - Seattle, WA
       year: 2023-
-      description:
     - title: MLIS
       institution: University of Washington - Seattle, WA
       year: 2022
@@ -38,8 +37,7 @@
       institution: University of Washington - Seattle, WA
       year: 2020-2022
       description: 
-        - title: I contributed to a number of projects, including:
-          contents:
+        - I contributed to a number of projects, including:
             - [Open Data in Public Libraries](https://tascha.uw.edu/projects/leveraging-use-of-open-data-by-public-library-staff-for-community-benefit/) - Technology and Social Change Group (TASCHA)
             - [LIS Forward](https://lisforward.ischool.uw.edu/) - Technology and Social Change Group (TASCHA)
             - [Open Data Literacy Project](https://odl.ischool.uw.edu/)
