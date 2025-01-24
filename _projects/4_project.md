@@ -1,8 +1,9 @@
 ---
 layout: page
-title: algorithmic co-adaptation
-description: another without an image
+title:
+description: 
 img: /assets/img/wallman.jpg
+redirect: https://www.samwallman.com/about
 importance: 4
 category: 
 ---
