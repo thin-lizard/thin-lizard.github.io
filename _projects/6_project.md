@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-description: a project with no name
+description:
 img: /assets/img/Screenshot-Gritty.png
 importance: 8
 category: 
