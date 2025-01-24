@@ -1,9 +1,8 @@
 ---
 layout: page
 title: gig-policies
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+description: 
+img: 
 importance: 3
 category: work
 ---
