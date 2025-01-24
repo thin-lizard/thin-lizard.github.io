@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 8
-description: an other 
-img: assets/img/9.jpg
+title: 
+description: algorithmic\ co-adaptation 
+img: 
 importance: 7
 category: work
 giscus_comments: false
