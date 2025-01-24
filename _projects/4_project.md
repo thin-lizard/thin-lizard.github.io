@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Models of Collective Power
+title: algorithmic co-adaptation
 description: another without an image
-img:
+img: /assets/img/wallman.jpg
 importance: 4
-category: work
+category: 
 ---
 
 Every project has a beautiful feature showcase page.
