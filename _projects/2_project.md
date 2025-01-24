@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deactivation With Representation 
-description: 
+description: "human in the black box"
 img: 
 importance: 2
 category: work
