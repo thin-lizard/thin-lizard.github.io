@@ -2,7 +2,7 @@
 layout: page
 title: GigPlat
 description: with background image
-img: assets/img/gigplat.png
+img: 
 importance: 1
 category: work
 related_publications: true
