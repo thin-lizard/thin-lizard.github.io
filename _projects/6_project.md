@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: ----
 description:
 img: /assets/img/Screenshot-Gritty.png
 importance: 8
