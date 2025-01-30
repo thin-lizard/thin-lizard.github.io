@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a researcher and advocate interested in how emerging technologies affect people's experiences at work. My research balances three perspectives: people's immediate experiences on the job, the endurance of platform technology companies, and the scope of public policy. My projects often involve interviews or focus groups with workers, collaboration with labor unions, and continual tracking and analysis of proposed and enacted legislation. My current focus is the platform-based service industry - including ridehail (Uber, Lyft), food and package delivery (DoorDash, Amazon Flex), and ghost kitchens.
+I investigate how emerging technologies affect people's experiences at work. My research balances three perspectives: people's immediate experiences on the job, the endurance of platform technology companies, and the scope of public policy. My projects often involve interviews or focus groups with workers, collaboration with labor unions, and continual tracking and analysis of proposed and enacted legislation. My current focus is the platform-based service industry - including ridehail (Uber, Lyft), food and package delivery (DoorDash, Amazon Flex), and ghost kitchens.
 
 I'm currently a PhD student at the [University of Washington Information School](https://ischool.uw.edu/), advised by [Dr. Nic Weber](https://ischool.uw.edu/people/faculty/profile/nmweber). Prior to graduate school, I worked as a pastry chef and archivist in Philadelphia, PA. 
 
