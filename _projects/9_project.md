@@ -2,7 +2,7 @@
 layout: page
 title: project 9
 description: 
-img: assets/img/6.jpg
+img: 
 importance: 9
 category: work
 ---
