@@ -1,8 +1,8 @@
 ---
 layout: page
 title: data donation 
-description: with background image
-img: assets/img/4.jpg
+description: ccpa, etc.
+img: 
 importance: 5
 category: work
 related_publications: true
