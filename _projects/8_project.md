@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-description: algorithmic\ co-adaptation 
+title: algorithmic\ co-adaptation
+description:  
 img: 
 importance: 7
 category: work
