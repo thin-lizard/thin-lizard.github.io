@@ -1,7 +1,7 @@
 ---
 layout: page
 title: diffuse design 
-description: a project with a background image
+description: a project 
 img: assets/img/1.jpg
 importance: 8
 category: work
